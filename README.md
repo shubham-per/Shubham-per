@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Shubham-10-pro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shubay
+- 👀 I’m interested in preety much everything that facinated me..
+- 🌱 I’m currently learning to gt a better life
+- 💞️ I’m looking to collaborate on investment
+- 📫 How to reach me 
+- 
   https://www.instagram.com/_shubham_SRB/
   https://twitter.com/Xettri_shubham
   https://www.facebook.com/ShubhamXettrii/?notif_id=1631387971142277&notif_t=aymt_simplified_make_page_post&ref=notif
