@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-10-pro&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-10-pro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-10-pro" alt="shubham-10-pro" /></a> </p>
-
 - 🌱 I’m currently learning **seedling I’m currently learning Hard surface Modeling**
 
 - 📫 How to reach me **shubham.ranabhat@gmail.com**
