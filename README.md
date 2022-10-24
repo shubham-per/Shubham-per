@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-10-pro&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-10-pro" /> </p>
 
-- 🌱 I’m currently learning **seedling I’m currently learning Hard surface Modeling**
+- 🌱 I’m currently learning Hard surface Modeling**
 
 - 📫 How to reach me **shubham.ranabhat@gmail.com**
 
